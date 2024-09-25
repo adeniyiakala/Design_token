@@ -8,14 +8,13 @@ This project uses Style Dictionary to take design tokens exported from Figma and
 
 Directory Structure
 
-├── tokens/                    # Design tokens exported from Figma
-│   ├── colors.json             # Color tokens
-│   ├── typography.json         # Typography tokens
-│   └── spacing.json            # Spacing tokens
-├── build/                      # Generated output files
-│   ├── css/                    # CSS variables
-│   ├── scss/                   # SCSS variables
-│   ├── js/                     # JavaScript tokens
-│   └── json/                   # JSON tokens
-└── README.md                   # Project documentation
-
+├── tokens/ # Design tokens exported from Figma
+│ ├── colors.json # Color tokens
+│ ├── typography.json # Typography tokens
+│ └── spacing.json # Spacing tokens
+├── build/ # Generated output files
+│ ├── css/ # CSS variables
+│ ├── scss/ # SCSS variables
+│ ├── js/ # JavaScript tokens
+│ └── json/ # JSON tokens
+└── README.md # Project documentation
